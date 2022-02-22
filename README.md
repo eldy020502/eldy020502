@@ -1,5 +1,7 @@
-### Haloo👋
-### My Name Eldy Dwingga Saputra,you can call me el
+### Haloo,My Name Eldy,You Can Call Me El👋
+
+<img src="https://telegra.ph/file/7e3a29e6b80e96b66a7e4.jpg" />
+
 - 🔭 I’m currently working on NOTHING
 - 🌱 I’m currently learning PYTHON
 - 👯 I’m looking to collaborate on ANYONE
