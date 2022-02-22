@@ -10,6 +10,10 @@
 - 📫 How to reach me: INSTAGRAM
 - 😄 Pronouns: INDONESIA
 - ⚡ Fun fact: I LIKE MANY THINGS
+
+##   **Github Stats**
+![Kennedy Github stats](https://github-readme-stats.vercel.app/api?username=eldy020502&show_icons=true&theme=tokyonight)
+
 ### Let's connect!
 <p>
     <a href="https://t.me/vnotv" target="blank"><img src="https://img.shields.io/badge/@vnotv-30302f?style=flat&logo=telegram" /></a>
