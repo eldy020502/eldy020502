@@ -10,4 +10,8 @@
 - 📫 How to reach me: INSTAGRAM
 - 😄 Pronouns: INDONESIA
 - ⚡ Fun fact: I LIKE MANY THINGS
+### Let's connect!
+<p>
+    <a href="https://t.me/vnotv" target="blank"><img src="https://img.shields.io/badge/@vnotv-30302f?style=flat&logo=telegram" /></a>
+    <a href="https://instagram.com/eldydwinggga_" target="blank"><img src="https://img.shields.io/badge/@eldydwinggga_-30302f?style=flat&logo=instagram" /></a>
 
