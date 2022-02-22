@@ -20,3 +20,7 @@
     <a href="https://t.me/vnotv" target="blank"><img src="https://img.shields.io/badge/@vnotv-30302f?style=flat&logo=telegram" /></a>
     <a href="https://instagram.com/eldydwinggga_" target="blank"><img src="https://img.shields.io/badge/@eldydwinggga_-30302f?style=flat&logo=instagram" /></a>
 
+<details>
+    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+
+![Metrics](https://metrics.lecoq.io/eldy020502?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FSolo)
