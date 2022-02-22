@@ -13,6 +13,7 @@
 
 ##   **Github Stats**
 ![Kennedy Github stats](https://github-readme-stats.vercel.app/api?username=eldy020502&show_icons=true&theme=tokyonight)
+<p align="center"><a href="https://github.com/eldy020502"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldy020502&theme=radical&layout=compact"></a></p>
 
 ### Let's connect!
 <p>
