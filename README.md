@@ -1,6 +1,6 @@
 ### Haloo,My Name Eldy,You Can Call Me El👋
 
-<img src="https://telegra.ph/file/7e3a29e6b80e96b66a7e4.jpg" />
+<img src="https://telegra.ph/file/78d150a3ce9488dcaa7cf.jpg" />
 
 - 🔭 I’m currently working on NOTHING
 - 🌱 I’m currently learning PYTHON
