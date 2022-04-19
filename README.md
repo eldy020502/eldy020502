@@ -1,6 +1,8 @@
-### Haloo,My Name Eldy,You Can Call Me El👋
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Venz 
 
-<img src="https://telegra.ph/file/78d150a3ce9488dcaa7cf.jpg" />
+<p align="center">
+<img src="./resources/extras/RigTest!.gif" width="5504 × 5504px"
+</p>
 
 - 🔭 I’m currently working on NOTHING
 - 🌱 I’m currently learning PYTHON
