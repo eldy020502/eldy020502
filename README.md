@@ -13,18 +13,16 @@
 
 ##   **Github Stats**
 ![Kennedy Github stats](https://github-readme-stats.vercel.app/api?username=eldy020502&show_icons=true&theme=tokyonight)
-<p align="center"><a href="https://github.com/eldy020502"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldy020502&theme=radical&layout=compact"></a></p>
+
+# Active Graph
+
+![Herox's's GitHub Graph](https://activity-graph.herokuapp.com/graph?username=eldy020502&custom_title=My%20Graph&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
 
 <h3 align="left">Bahasa dan Code</h3>
 <p align="left"> <a href="https://www.github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eldy020502&" alt="eldy020502
 
-
-### Let's connect!
-<p>
-    <a href="https://t.me/vnotv" target="blank"><img src="https://img.shields.io/badge/@vnotv-30302f?style=flat&logo=telegram" /></a>
-    <a href="https://instagram.com/eldydwinggga_" target="blank"><img src="https://img.shields.io/badge/@eldydwinggga_-30302f?style=flat&logo=instagram" /></a>
 
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
